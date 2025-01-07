@@ -2,6 +2,7 @@ class Calculator{
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 	void add(int a, int b){
 		System.out.println(a+b);
@@ -18,6 +19,11 @@ class Calculator{
 }
 >>>>>>> multiply
 
+=======
+	void devide(int a,int b){
+		System.out.println(a/b);
+}
+>>>>>>> devide
 	public static void main(String args[]){
 		int a = 10, b = 5;
 		add(a, b);
